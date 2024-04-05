@@ -22,7 +22,7 @@ from pytube import YouTube
 import requests
 from bs4 import BeautifulSoup
 
-video = YouTube('https://www.youtu.be/k3CLd-Zc3r0?si=dzeQcGGsgcC5DtXy')
+video = YouTube('')
 
 bot = TeleBot(token = 'token')
 
