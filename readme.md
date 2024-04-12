@@ -1,5 +1,3 @@
-#todo:
+# TOTO Utube Downloader
 
-# 1. test it on cattline
-
-# 2. test it on orangebats
+### This is Toto. She downloads your youtube videos locally. She's useful.. Be like Toto 
